@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "윤성식"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/무야호.png
   bio              : "I am an **amazing** person."
   location         : "대한민국,서울"
   email            :  seanyoun2004@gmail.com
